@@ -104,13 +104,13 @@ class Txt(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/RHmovieHDOFFICIAL'>TFT BOTS</a>
-<b>🛡️ :</b> <a href='https://t.me/+qqlFvtYDJOw4MmI1'>TFT Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/tech_freak_tamil'>TFT BOTS</a>
+<b>🛡️ :</b> <a href='https://t.me/+NITVxLchQhYzNGZl'>TFT Developer</a>
     
-<b>😈 Bot Made By :</b> @Rakibul51624"""
+<b>😈 Bot Made By :</b> @tech_freak_tamil"""
 
 
 # Tech freak 
 # Don't Remove Credit!!!
-# Telegram Channel @RHmovieHDOFFICIAL
-# Developer @Rakibul51624
+# Telegram Channel @Tech_freak_tamil
+# Developer @devilo7
