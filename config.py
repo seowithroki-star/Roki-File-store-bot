@@ -10,14 +10,14 @@ API_ID = int(os.environ.get("API_ID", ""))
 API_HASH = os.environ.get("API_HASH", "")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6299192020"))
-DB_URL = os.environ.get("DB_URL", "")
-DB_NAME = os.environ.get("DB_NAME", "Tecfreaktamil")
+OWNER_ID = int(os.environ.get("OWNER_ID", "7945670631"))
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://shihabkhan2052_db_user:<db_password>@cluster0.bhjsfag.mongodb.net/")
+DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003094784222"))
 
-FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1003056865925"))
+FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1003200571840"))
 
 FORCE_SUB_CHANNEL_2 = int(os.environ.get("FORCE_SUB_CHANNEL_2", "0"))
 
@@ -75,7 +75,7 @@ FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "𝐒𝐨𝐫𝐫𝐲 {first} Yo
 
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(6299192020)
+ADMINS.append(7945670631)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
@@ -104,13 +104,13 @@ class Txt(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/tech_freak_tamil'>TFT BOTS</a>
-<b>🛡️ :</b> <a href='https://t.me/+NITVxLchQhYzNGZl'>TFT Developer</a>
+<b>📢 Channel :</b> <a href='https://t.me/RHmovieHDOFFICIAL'>TFT BOTS</a>
+<b>🛡️ :</b> <a href='https://t.me/+qqlFvtYDJOw4MmI1'>TFT Developer</a>
     
-<b>😈 Bot Made By :</b> @tech_freak_tamil"""
+<b>😈 Bot Made By :</b> @Rakibul51624"""
 
 
 # Tech freak 
 # Don't Remove Credit!!!
-# Telegram Channel @Tech_freak_tamil
-# Developer @devilo7
+# Telegram Channel @RHmovieHDOFFICIAL
+# Developer @Rakibul51624
